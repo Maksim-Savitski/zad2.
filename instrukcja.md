@@ -24,3 +24,8 @@ Zadanie 3 - 4pkt................................21
 ###Wstęp
 Obecnie powszechnie wykorzystuje się języki ze znacznikami do opisania dodatkowych informacji
 umieszczanych w plikach tekstowych. Z pośród najbardziej popularnych można wspomnieć o:
+
+rtyuiop
+
+#6788hj
+fghi
